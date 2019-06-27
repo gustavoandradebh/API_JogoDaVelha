@@ -1,0 +1,13 @@
+C:\Users\Gustavo\Source\Repos\JogoDaVelhaAPI\bin\Debug\netcoreapp2.1\JogoDaVelhaAPI.deps.json
+C:\Users\Gustavo\Source\Repos\JogoDaVelhaAPI\bin\Debug\netcoreapp2.1\JogoDaVelhaAPI.runtimeconfig.json
+C:\Users\Gustavo\Source\Repos\JogoDaVelhaAPI\bin\Debug\netcoreapp2.1\JogoDaVelhaAPI.runtimeconfig.dev.json
+C:\Users\Gustavo\Source\Repos\JogoDaVelhaAPI\bin\Debug\netcoreapp2.1\JogoDaVelhaAPI.dll
+C:\Users\Gustavo\Source\Repos\JogoDaVelhaAPI\bin\Debug\netcoreapp2.1\JogoDaVelhaAPI.pdb
+C:\Users\Gustavo\Source\Repos\JogoDaVelhaAPI\obj\Debug\netcoreapp2.1\JogoDaVelhaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Source\Repos\JogoDaVelhaAPI\obj\Debug\netcoreapp2.1\JogoDaVelhaAPI.RazorAssemblyInfo.cache
+C:\Users\Gustavo\Source\Repos\JogoDaVelhaAPI\obj\Debug\netcoreapp2.1\JogoDaVelhaAPI.RazorAssemblyInfo.cs
+C:\Users\Gustavo\Source\Repos\JogoDaVelhaAPI\obj\Debug\netcoreapp2.1\JogoDaVelhaAPI.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Source\Repos\JogoDaVelhaAPI\obj\Debug\netcoreapp2.1\JogoDaVelhaAPI.AssemblyInfo.cs
+C:\Users\Gustavo\Source\Repos\JogoDaVelhaAPI\obj\Debug\netcoreapp2.1\JogoDaVelhaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Gustavo\Source\Repos\JogoDaVelhaAPI\obj\Debug\netcoreapp2.1\JogoDaVelhaAPI.dll
+C:\Users\Gustavo\Source\Repos\JogoDaVelhaAPI\obj\Debug\netcoreapp2.1\JogoDaVelhaAPI.pdb
