@@ -1,2 +1,2 @@
 # API_JogoDaVelha
-API para a prova prática da DTI
+API para operações do Jogo da Velha
